@@ -7,4 +7,5 @@ To view: git config --list --global
 To set: git config --global user.name username
         git config --global user.email email
 To edit global config file:
-        git config --edit --global
+         git config --edit --global
+Adding a new line
