@@ -1,1 +1,10 @@
 Here are the GIT basics
+
+# use the below commands to configure the username and email of your GIT hub
+
+
+To view: git config --list --global
+To set: git config --global user.name username
+        git config --global user.email email
+To edit global config file:
+        git config --edit --global
