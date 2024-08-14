@@ -9,3 +9,4 @@ To set: git config --global user.name username
 To edit global config file:
          git config --edit --global
 Adding a new line
+modifying the file
